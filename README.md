@@ -4,7 +4,7 @@ This repo is for the "Getting and Cleaning Data" class project.
 
 Raw data
 =====
-Features (561) are in x_test.txt and activity labels are in y_test.txt. Test subjects can be found in subject_tests.txt. Similarly, you can find training data in the appropriately labeled files. You can can read more about the data at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+Features (561) are in x_test.txt and activity labels are in y_test.txt. Test subjects can be found in subject_tests.txt. Similarly, you can find training data in the appropriately labeled files. You can can read more about the data at the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 Processing
 =====
